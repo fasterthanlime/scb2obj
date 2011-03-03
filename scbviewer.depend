@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1299113708 source:c:\documents and settings\administrator\dev\scbviewer\scbviewer\scbloader.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"scbloader.h"
+
+1299112184 c:\documents and settings\administrator\dev\scbviewer\scbviewer\scbloader.h
+	"scbformat.h"
+
+1299113035 c:\documents and settings\administrator\dev\scbviewer\scbviewer\scbformat.h
+
+1299113764 source:c:\documents and settings\administrator\dev\scbviewer\scbviewer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"scbloader.h"
+
